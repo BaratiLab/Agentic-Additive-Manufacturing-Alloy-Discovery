@@ -1,0 +1,11 @@
+[project]
+name = "agentic-additive-manufacturing-alloy-discovery"
+version = "0.0.0"
+description = "Multi-agent workflow configuration for additive manufacturing alloy discovery via Model Context Protocol (MCP)"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "additive-manufacturing>=0.0.13",
+    "out-workspace>=0.0.9",
+    "thermo-calc>=0.0.9",
+]
