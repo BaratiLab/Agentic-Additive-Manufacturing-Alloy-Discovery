@@ -1,0 +1,31 @@
+{
+  "name": "AlSi10Mg",
+  "specific_heat_capacity": {
+    "magnitude": 896,
+    "units": "joule / kelvin / kilogram"
+  },
+  "absorptivity": {
+    "magnitude": 0.35,
+    "units": "dimensionless"
+  },
+  "thermal_conductivity": {
+    "magnitude": 121,
+    "units": "watt / kelvin / meter"
+  },
+  "density": {
+    "magnitude": 2680,
+    "units": "kilogram / meter ** 3"
+  },
+  "temperature_melt": {
+    "magnitude": 868,
+    "units": "kelvin"
+  },
+  "temperature_liquidus": {
+    "magnitude": 888,
+    "units": "kelvin"
+  },
+  "temperature_solidus": {
+    "magnitude": 848,
+    "units": "kelvin"
+  }
+}

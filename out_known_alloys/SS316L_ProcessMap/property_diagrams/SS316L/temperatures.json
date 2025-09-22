@@ -1,0 +1,15 @@
+{
+  "name": "SS316L",
+  "temperature_melt": {
+    "magnitude": 1719.6277050502886,
+    "units": "kelvin"
+  },
+  "temperature_liquidus": {
+    "magnitude": 1727.8871875704474,
+    "units": "kelvin"
+  },
+  "temperature_solidus": {
+    "magnitude": 1711.36822253013,
+    "units": "kelvin"
+  }
+}

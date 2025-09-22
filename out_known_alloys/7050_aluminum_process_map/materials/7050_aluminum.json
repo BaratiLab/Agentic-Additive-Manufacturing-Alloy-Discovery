@@ -1,0 +1,31 @@
+{
+  "name": "7050_aluminum",
+  "specific_heat_capacity": {
+    "magnitude": 960,
+    "units": "joule / kelvin / kilogram"
+  },
+  "absorptivity": {
+    "magnitude": 0.4,
+    "units": "dimensionless"
+  },
+  "thermal_conductivity": {
+    "magnitude": 130,
+    "units": "watt / kelvin / meter"
+  },
+  "density": {
+    "magnitude": 2700,
+    "units": "kilogram / meter ** 3"
+  },
+  "temperature_melt": {
+    "magnitude": 819,
+    "units": "kelvin"
+  },
+  "temperature_liquidus": {
+    "magnitude": 890,
+    "units": "kelvin"
+  },
+  "temperature_solidus": {
+    "magnitude": 748,
+    "units": "kelvin"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "K500",
+  "temperature_melt": {
+    "magnitude": 1625.7069441974481,
+    "units": "kelvin"
+  },
+  "temperature_liquidus": {
+    "magnitude": 1663.7593192741215,
+    "units": "kelvin"
+  },
+  "temperature_solidus": {
+    "magnitude": 1587.6545691207748,
+    "units": "kelvin"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "H13_TOOL_STEEL",
+  "temperature_melt": {
+    "magnitude": 1701.6525635617113,
+    "units": "kelvin"
+  },
+  "temperature_liquidus": {
+    "magnitude": 1751.1746136874165,
+    "units": "kelvin"
+  },
+  "temperature_solidus": {
+    "magnitude": 1652.130513436006,
+    "units": "kelvin"
+  }
+}

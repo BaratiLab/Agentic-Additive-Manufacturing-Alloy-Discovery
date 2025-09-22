@@ -1,0 +1,31 @@
+{
+  "name": "K500",
+  "specific_heat_capacity": {
+    "magnitude": 33.02225919749745,
+    "units": "joule / kelvin / kilogram"
+  },
+  "absorptivity": {
+    "magnitude": 0.21517611735140132,
+    "units": "dimensionless"
+  },
+  "thermal_conductivity": {
+    "magnitude": 40.638633660548805,
+    "units": "watt / kelvin / meter"
+  },
+  "density": {
+    "magnitude": 8518282.074395226,
+    "units": "gram / meter ** 3"
+  },
+  "temperature_melt": {
+    "magnitude": 1625.7069441974481,
+    "units": "kelvin"
+  },
+  "temperature_liquidus": {
+    "magnitude": 1663.7593192741215,
+    "units": "kelvin"
+  },
+  "temperature_solidus": {
+    "magnitude": 1587.6545691207748,
+    "units": "kelvin"
+  }
+}

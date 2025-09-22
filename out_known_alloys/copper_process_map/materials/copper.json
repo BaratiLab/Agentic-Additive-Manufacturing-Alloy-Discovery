@@ -1,0 +1,31 @@
+{
+  "name": "copper",
+  "specific_heat_capacity": {
+    "magnitude": 385,
+    "units": "joule / kelvin / kilogram"
+  },
+  "absorptivity": {
+    "magnitude": 0.4,
+    "units": "dimensionless"
+  },
+  "thermal_conductivity": {
+    "magnitude": 400,
+    "units": "watt / kelvin / meter"
+  },
+  "density": {
+    "magnitude": 8960,
+    "units": "kilogram / meter ** 3"
+  },
+  "temperature_melt": {
+    "magnitude": 1358,
+    "units": "kelvin"
+  },
+  "temperature_liquidus": {
+    "magnitude": 1358,
+    "units": "kelvin"
+  },
+  "temperature_solidus": {
+    "magnitude": 1356,
+    "units": "kelvin"
+  }
+}

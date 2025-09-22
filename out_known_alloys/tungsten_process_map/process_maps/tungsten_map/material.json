@@ -1,0 +1,31 @@
+{
+  "name": "tungsten",
+  "specific_heat_capacity": {
+    "magnitude": 132,
+    "units": "joule / kelvin / kilogram"
+  },
+  "absorptivity": {
+    "magnitude": 0.35,
+    "units": "dimensionless"
+  },
+  "thermal_conductivity": {
+    "magnitude": 173,
+    "units": "watt / kelvin / meter"
+  },
+  "density": {
+    "magnitude": 19250,
+    "units": "kilogram / meter ** 3"
+  },
+  "temperature_melt": {
+    "magnitude": 3695,
+    "units": "kelvin"
+  },
+  "temperature_liquidus": {
+    "magnitude": 3695,
+    "units": "kelvin"
+  },
+  "temperature_solidus": {
+    "magnitude": 3695,
+    "units": "kelvin"
+  }
+}

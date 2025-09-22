@@ -1,0 +1,15 @@
+{
+  "name": "ALLOY_7050",
+  "temperature_melt": {
+    "magnitude": 870.653995707225,
+    "units": "kelvin"
+  },
+  "temperature_liquidus": {
+    "magnitude": 986.8054877256907,
+    "units": "kelvin"
+  },
+  "temperature_solidus": {
+    "magnitude": 754.5025036887592,
+    "units": "kelvin"
+  }
+}

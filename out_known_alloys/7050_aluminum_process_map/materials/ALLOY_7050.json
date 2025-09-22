@@ -1,0 +1,31 @@
+{
+  "name": "ALLOY_7050",
+  "specific_heat_capacity": {
+    "magnitude": 29.808490460078264,
+    "units": "joule / kelvin / kilogram"
+  },
+  "absorptivity": {
+    "magnitude": 0.08342073929954275,
+    "units": "dimensionless"
+  },
+  "thermal_conductivity": {
+    "magnitude": 212.02901455595332,
+    "units": "watt / kelvin / meter"
+  },
+  "density": {
+    "magnitude": 2804500.669948028,
+    "units": "gram / meter ** 3"
+  },
+  "temperature_melt": {
+    "magnitude": 870.653995707225,
+    "units": "kelvin"
+  },
+  "temperature_liquidus": {
+    "magnitude": 986.8054877256907,
+    "units": "kelvin"
+  },
+  "temperature_solidus": {
+    "magnitude": 754.5025036887592,
+    "units": "kelvin"
+  }
+}

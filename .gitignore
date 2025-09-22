@@ -209,3 +209,6 @@ __marimo__/
 .claude/
 cache/
 out/
+out*/
+
+!out_known_alloys
