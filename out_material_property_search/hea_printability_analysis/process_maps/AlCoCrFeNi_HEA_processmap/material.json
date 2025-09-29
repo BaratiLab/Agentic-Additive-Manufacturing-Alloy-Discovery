@@ -1,0 +1,31 @@
+{
+  "name": "AlCoCrFeNi_HEA",
+  "specific_heat_capacity": {
+    "magnitude": 42.53934575079282,
+    "units": "joule / kelvin / kilogram"
+  },
+  "absorptivity": {
+    "magnitude": 0.38367376018408056,
+    "units": "dimensionless"
+  },
+  "thermal_conductivity": {
+    "magnitude": 20.66689032484357,
+    "units": "watt / kelvin / meter"
+  },
+  "density": {
+    "magnitude": 5933124.832895125,
+    "units": "gram / meter ** 3"
+  },
+  "temperature_melt": {
+    "magnitude": 1864.398526051545,
+    "units": "kelvin"
+  },
+  "temperature_liquidus": {
+    "magnitude": 1962.6296756853994,
+    "units": "kelvin"
+  },
+  "temperature_solidus": {
+    "magnitude": 1766.1673764176905,
+    "units": "kelvin"
+  }
+}

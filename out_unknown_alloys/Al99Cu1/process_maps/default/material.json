@@ -1,0 +1,31 @@
+{
+  "name": "Al99Cu1",
+  "specific_heat_capacity": {
+    "magnitude": 27.36115281741811,
+    "units": "joule / kelvin / kilogram"
+  },
+  "absorptivity": {
+    "magnitude": 0.07982891431268341,
+    "units": "dimensionless"
+  },
+  "thermal_conductivity": {
+    "magnitude": 233.04537641051485,
+    "units": "watt / kelvin / meter"
+  },
+  "density": {
+    "magnitude": 2678243.414818411,
+    "units": "gram / meter ** 3"
+  },
+  "temperature_melt": {
+    "magnitude": 919.1302765463392,
+    "units": "kelvin"
+  },
+  "temperature_liquidus": {
+    "magnitude": 930.867927842885,
+    "units": "kelvin"
+  },
+  "temperature_solidus": {
+    "magnitude": 907.3926252497935,
+    "units": "kelvin"
+  }
+}

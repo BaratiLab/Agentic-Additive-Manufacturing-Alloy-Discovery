@@ -1,0 +1,31 @@
+{
+  "name": "IN718",
+  "specific_heat_capacity": {
+    "magnitude": 29.124417047638175,
+    "units": "joule / kelvin / kilogram"
+  },
+  "absorptivity": {
+    "magnitude": 0.14805683531416233,
+    "units": "dimensionless"
+  },
+  "thermal_conductivity": {
+    "magnitude": 62.1591639934039,
+    "units": "watt / kelvin / meter"
+  },
+  "density": {
+    "magnitude": 8178829.534199299,
+    "units": "gram / meter ** 3"
+  },
+  "temperature_melt": {
+    "magnitude": 1571.4061888109854,
+    "units": "kelvin"
+  },
+  "temperature_liquidus": {
+    "magnitude": 1610.861199257639,
+    "units": "kelvin"
+  },
+  "temperature_solidus": {
+    "magnitude": 1531.951178364332,
+    "units": "kelvin"
+  }
+}

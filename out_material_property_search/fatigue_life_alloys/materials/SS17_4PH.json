@@ -1,0 +1,31 @@
+{
+  "name": "SS17_4PH",
+  "specific_heat_capacity": {
+    "magnitude": 36.15283254745093,
+    "units": "joule / kelvin / kilogram"
+  },
+  "absorptivity": {
+    "magnitude": 0.17325903166652806,
+    "units": "dimensionless"
+  },
+  "thermal_conductivity": {
+    "magnitude": 53.696022366278044,
+    "units": "watt / kelvin / meter"
+  },
+  "density": {
+    "magnitude": 7759370.485735222,
+    "units": "gram / meter ** 3"
+  },
+  "temperature_melt": {
+    "magnitude": 1707.1610796835798,
+    "units": "kelvin"
+  },
+  "temperature_liquidus": {
+    "magnitude": 1728.9470691968843,
+    "units": "kelvin"
+  },
+  "temperature_solidus": {
+    "magnitude": 1685.3750901702754,
+    "units": "kelvin"
+  }
+}

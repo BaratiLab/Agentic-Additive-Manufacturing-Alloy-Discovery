@@ -1,0 +1,31 @@
+{
+  "name": "CoCrFeMnNi_HEA",
+  "specific_heat_capacity": {
+    "magnitude": 34.92767467203148,
+    "units": "joule / kelvin / kilogram"
+  },
+  "absorptivity": {
+    "magnitude": 0.483874998511028,
+    "units": "dimensionless"
+  },
+  "thermal_conductivity": {
+    "magnitude": 25.287221243888453,
+    "units": "watt / kelvin / meter"
+  },
+  "density": {
+    "magnitude": 7420324.09010736,
+    "units": "gram / meter ** 3"
+  },
+  "temperature_melt": {
+    "magnitude": 1573.6296355504028,
+    "units": "kelvin"
+  },
+  "temperature_liquidus": {
+    "magnitude": 1591.0971951852398,
+    "units": "kelvin"
+  },
+  "temperature_solidus": {
+    "magnitude": 1556.1620759155655,
+    "units": "kelvin"
+  }
+}

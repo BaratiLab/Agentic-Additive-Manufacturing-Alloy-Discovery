@@ -1,0 +1,15 @@
+{
+  "name": "High_Strength_Stainless",
+  "temperature_melt": {
+    "magnitude": 1589.470134305201,
+    "units": "kelvin"
+  },
+  "temperature_liquidus": {
+    "magnitude": 1650.5698447635998,
+    "units": "kelvin"
+  },
+  "temperature_solidus": {
+    "magnitude": 1528.3704238468026,
+    "units": "kelvin"
+  }
+}

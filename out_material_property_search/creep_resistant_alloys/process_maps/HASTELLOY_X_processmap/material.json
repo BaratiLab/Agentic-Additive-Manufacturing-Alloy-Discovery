@@ -1,0 +1,31 @@
+{
+  "name": "HASTELLOY_X",
+  "specific_heat_capacity": {
+    "magnitude": 35.80898964095676,
+    "units": "joule / kelvin / kilogram"
+  },
+  "absorptivity": {
+    "magnitude": 0.16321887689140913,
+    "units": "dimensionless"
+  },
+  "thermal_conductivity": {
+    "magnitude": 52.12674618964124,
+    "units": "watt / kelvin / meter"
+  },
+  "density": {
+    "magnitude": 8129967.028108763,
+    "units": "gram / meter ** 3"
+  },
+  "temperature_melt": {
+    "magnitude": 1599.7438549506223,
+    "units": "kelvin"
+  },
+  "temperature_liquidus": {
+    "magnitude": 1616.6208060928325,
+    "units": "kelvin"
+  },
+  "temperature_solidus": {
+    "magnitude": 1582.8669038084124,
+    "units": "kelvin"
+  }
+}

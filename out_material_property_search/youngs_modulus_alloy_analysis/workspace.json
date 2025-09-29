@@ -1,0 +1,6 @@
+{
+  "name": "youngs_modulus_alloy_analysis",
+  "out_path": "/home/ppak/GitHub/Agentic-Additive-Manufacturing-Alloy-Discovery/out",
+  "workspace_path": "/home/ppak/GitHub/Agentic-Additive-Manufacturing-Alloy-Discovery/out/youngs_modulus_alloy_analysis",
+  "config_file": "workspace.json"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Al90Cu5Ti5",
+  "temperature_melt": {
+    "magnitude": 1097.0941235186056,
+    "units": "kelvin"
+  },
+  "temperature_liquidus": {
+    "magnitude": 1372.4429021299675,
+    "units": "kelvin"
+  },
+  "temperature_solidus": {
+    "magnitude": 821.7453449072436,
+    "units": "kelvin"
+  }
+}

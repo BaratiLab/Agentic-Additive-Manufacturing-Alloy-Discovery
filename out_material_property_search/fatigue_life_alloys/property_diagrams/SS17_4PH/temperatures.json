@@ -1,0 +1,15 @@
+{
+  "name": "SS17_4PH",
+  "temperature_melt": {
+    "magnitude": 1707.1610796835798,
+    "units": "kelvin"
+  },
+  "temperature_liquidus": {
+    "magnitude": 1728.9470691968843,
+    "units": "kelvin"
+  },
+  "temperature_solidus": {
+    "magnitude": 1685.3750901702754,
+    "units": "kelvin"
+  }
+}

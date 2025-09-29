@@ -1,0 +1,31 @@
+{
+  "name": "IN625",
+  "specific_heat_capacity": {
+    "magnitude": 31.491121650394426,
+    "units": "joule / kelvin / kilogram"
+  },
+  "absorptivity": {
+    "magnitude": 0.15630948080675064,
+    "units": "dimensionless"
+  },
+  "thermal_conductivity": {
+    "magnitude": 45.94502305598706,
+    "units": "watt / kelvin / meter"
+  },
+  "density": {
+    "magnitude": 8411802.105453616,
+    "units": "gram / meter ** 3"
+  },
+  "temperature_melt": {
+    "magnitude": 1653.9180543494494,
+    "units": "kelvin"
+  },
+  "temperature_liquidus": {
+    "magnitude": 1658.9938179677079,
+    "units": "kelvin"
+  },
+  "temperature_solidus": {
+    "magnitude": 1648.8422907311913,
+    "units": "kelvin"
+  }
+}

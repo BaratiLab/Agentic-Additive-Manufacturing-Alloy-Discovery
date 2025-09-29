@@ -1,0 +1,6 @@
+{
+  "name": "fatigue_life_alloys",
+  "out_path": "/home/ppak/GitHub/Agentic-Additive-Manufacturing-Alloy-Discovery/out",
+  "workspace_path": "/home/ppak/GitHub/Agentic-Additive-Manufacturing-Alloy-Discovery/out/fatigue_life_alloys",
+  "config_file": "workspace.json"
+}

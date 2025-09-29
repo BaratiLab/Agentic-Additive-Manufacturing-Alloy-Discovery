@@ -1,0 +1,6 @@
+{
+  "name": "Fe80Ni10Ti10_printability",
+  "out_path": "/home/ppak/GitHub/Agentic-Additive-Manufacturing-Alloy-Discovery/out",
+  "workspace_path": "/home/ppak/GitHub/Agentic-Additive-Manufacturing-Alloy-Discovery/out/Fe80Ni10Ti10_printability",
+  "config_file": "workspace.json"
+}

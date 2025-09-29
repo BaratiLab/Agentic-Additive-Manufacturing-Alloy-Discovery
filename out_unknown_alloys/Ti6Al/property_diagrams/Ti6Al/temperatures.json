@@ -1,0 +1,15 @@
+{
+  "name": "Ti6Al",
+  "temperature_melt": {
+    "magnitude": 1963.3745197443918,
+    "units": "kelvin"
+  },
+  "temperature_liquidus": {
+    "magnitude": 1963.379638184678,
+    "units": "kelvin"
+  },
+  "temperature_solidus": {
+    "magnitude": 1963.3694013041058,
+    "units": "kelvin"
+  }
+}

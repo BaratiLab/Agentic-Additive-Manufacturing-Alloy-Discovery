@@ -1,0 +1,15 @@
+{
+  "name": "TiNbMoSi_experimental",
+  "temperature_melt": {
+    "magnitude": 1834.9295502938312,
+    "units": "kelvin"
+  },
+  "temperature_liquidus": {
+    "magnitude": 2050.3190158086086,
+    "units": "kelvin"
+  },
+  "temperature_solidus": {
+    "magnitude": 1619.540084779054,
+    "units": "kelvin"
+  }
+}

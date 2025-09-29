@@ -1,0 +1,15 @@
+{
+  "name": "MARAGING_STEEL_M300",
+  "temperature_melt": {
+    "magnitude": 1689.7422580650577,
+    "units": "kelvin"
+  },
+  "temperature_liquidus": {
+    "magnitude": 1715.670377556045,
+    "units": "kelvin"
+  },
+  "temperature_solidus": {
+    "magnitude": 1663.8141385740707,
+    "units": "kelvin"
+  }
+}

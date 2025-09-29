@@ -1,0 +1,15 @@
+{
+  "name": "IN625",
+  "temperature_melt": {
+    "magnitude": 1653.9180543494494,
+    "units": "kelvin"
+  },
+  "temperature_liquidus": {
+    "magnitude": 1658.9938179677079,
+    "units": "kelvin"
+  },
+  "temperature_solidus": {
+    "magnitude": 1648.8422907311913,
+    "units": "kelvin"
+  }
+}

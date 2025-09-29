@@ -1,0 +1,15 @@
+{
+  "name": "High_Carbon_Tool_Steel",
+  "temperature_melt": {
+    "magnitude": 1594.2821036389369,
+    "units": "kelvin"
+  },
+  "temperature_liquidus": {
+    "magnitude": 1663.795574714571,
+    "units": "kelvin"
+  },
+  "temperature_solidus": {
+    "magnitude": 1524.7686325633024,
+    "units": "kelvin"
+  }
+}

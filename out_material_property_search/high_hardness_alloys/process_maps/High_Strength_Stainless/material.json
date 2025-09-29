@@ -1,0 +1,31 @@
+{
+  "name": "High_Strength_Stainless",
+  "specific_heat_capacity": {
+    "magnitude": 92.7796324233495,
+    "units": "joule / kelvin / kilogram"
+  },
+  "absorptivity": {
+    "magnitude": 0.48110561804080415,
+    "units": "dimensionless"
+  },
+  "thermal_conductivity": {
+    "magnitude": 30.489293526710398,
+    "units": "watt / kelvin / meter"
+  },
+  "density": {
+    "magnitude": 7267834.541868522,
+    "units": "gram / meter ** 3"
+  },
+  "temperature_melt": {
+    "magnitude": 1589.470134305201,
+    "units": "kelvin"
+  },
+  "temperature_liquidus": {
+    "magnitude": 1650.5698447635998,
+    "units": "kelvin"
+  },
+  "temperature_solidus": {
+    "magnitude": 1528.3704238468026,
+    "units": "kelvin"
+  }
+}

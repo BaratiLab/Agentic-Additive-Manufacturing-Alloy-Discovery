@@ -1,0 +1,6 @@
+{
+  "name": "yield_stress_optimization",
+  "out_path": "/home/ppak/GitHub/Agentic-Additive-Manufacturing-Alloy-Discovery/out",
+  "workspace_path": "/home/ppak/GitHub/Agentic-Additive-Manufacturing-Alloy-Discovery/out/yield_stress_optimization",
+  "config_file": "workspace.json"
+}

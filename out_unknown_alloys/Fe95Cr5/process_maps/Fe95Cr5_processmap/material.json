@@ -1,0 +1,31 @@
+{
+  "name": "Fe95Cr5",
+  "specific_heat_capacity": {
+    "magnitude": 33.69878414908311,
+    "units": "joule / kelvin / kilogram"
+  },
+  "absorptivity": {
+    "magnitude": 0.1842220436783236,
+    "units": "dimensionless"
+  },
+  "thermal_conductivity": {
+    "magnitude": 50.66022004323323,
+    "units": "watt / kelvin / meter"
+  },
+  "density": {
+    "magnitude": 7774568.006276393,
+    "units": "gram / meter ** 3"
+  },
+  "temperature_melt": {
+    "magnitude": 1802.9659540275834,
+    "units": "kelvin"
+  },
+  "temperature_liquidus": {
+    "magnitude": 1803.209799045197,
+    "units": "kelvin"
+  },
+  "temperature_solidus": {
+    "magnitude": 1802.7221090099697,
+    "units": "kelvin"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "MARAGING_STEEL_M300",
+  "specific_heat_capacity": {
+    "magnitude": 33.71635225040677,
+    "units": "joule / kelvin / kilogram"
+  },
+  "absorptivity": {
+    "magnitude": 0.15731361265105193,
+    "units": "dimensionless"
+  },
+  "thermal_conductivity": {
+    "magnitude": 37.00718697328264,
+    "units": "watt / kelvin / meter"
+  },
+  "density": {
+    "magnitude": 8096090.175609063,
+    "units": "gram / meter ** 3"
+  },
+  "temperature_melt": {
+    "magnitude": 1689.7422580650577,
+    "units": "kelvin"
+  },
+  "temperature_liquidus": {
+    "magnitude": 1715.670377556045,
+    "units": "kelvin"
+  },
+  "temperature_solidus": {
+    "magnitude": 1663.8141385740707,
+    "units": "kelvin"
+  }
+}

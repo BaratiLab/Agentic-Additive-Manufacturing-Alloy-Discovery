@@ -1,0 +1,15 @@
+{
+  "name": "Fe95Cr5",
+  "temperature_melt": {
+    "magnitude": 1802.9659540275834,
+    "units": "kelvin"
+  },
+  "temperature_liquidus": {
+    "magnitude": 1803.209799045197,
+    "units": "kelvin"
+  },
+  "temperature_solidus": {
+    "magnitude": 1802.7221090099697,
+    "units": "kelvin"
+  }
+}

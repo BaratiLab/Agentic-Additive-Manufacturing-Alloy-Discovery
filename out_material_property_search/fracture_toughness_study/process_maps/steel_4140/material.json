@@ -1,0 +1,31 @@
+{
+  "name": "steel_4140",
+  "specific_heat_capacity": {
+    "magnitude": 475,
+    "units": "joule / kelvin / kilogram"
+  },
+  "absorptivity": {
+    "magnitude": 0.3,
+    "units": "dimensionless"
+  },
+  "thermal_conductivity": {
+    "magnitude": 42,
+    "units": "watt / kelvin / meter"
+  },
+  "density": {
+    "magnitude": 7850,
+    "units": "kilogram / meter ** 3"
+  },
+  "temperature_melt": {
+    "magnitude": 1763,
+    "units": "kelvin"
+  },
+  "temperature_liquidus": {
+    "magnitude": 1798,
+    "units": "kelvin"
+  },
+  "temperature_solidus": {
+    "magnitude": 1728,
+    "units": "kelvin"
+  }
+}

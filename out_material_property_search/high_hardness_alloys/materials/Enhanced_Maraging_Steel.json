@@ -1,0 +1,31 @@
+{
+  "name": "Enhanced_Maraging_Steel",
+  "specific_heat_capacity": {
+    "magnitude": 640.0803475513144,
+    "units": "joule / kelvin / kilogram"
+  },
+  "absorptivity": {
+    "magnitude": 0.44216725093425563,
+    "units": "dimensionless"
+  },
+  "thermal_conductivity": {
+    "magnitude": 25.87166777206133,
+    "units": "watt / kelvin / meter"
+  },
+  "density": {
+    "magnitude": 7566279.629838212,
+    "units": "gram / meter ** 3"
+  },
+  "temperature_melt": {
+    "magnitude": 1709.3230667653993,
+    "units": "kelvin"
+  },
+  "temperature_liquidus": {
+    "magnitude": 1721.404973260153,
+    "units": "kelvin"
+  },
+  "temperature_solidus": {
+    "magnitude": 1697.2411602706459,
+    "units": "kelvin"
+  }
+}

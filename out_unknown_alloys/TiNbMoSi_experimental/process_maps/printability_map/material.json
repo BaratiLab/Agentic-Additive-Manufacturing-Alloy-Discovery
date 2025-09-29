@@ -1,0 +1,31 @@
+{
+  "name": "TiNbMoSi_experimental",
+  "specific_heat_capacity": {
+    "magnitude": 28.731995739747845,
+    "units": "joule / kelvin / kilogram"
+  },
+  "absorptivity": {
+    "magnitude": 0.34399061023197847,
+    "units": "dimensionless"
+  },
+  "thermal_conductivity": {
+    "magnitude": 19.55375580733319,
+    "units": "watt / kelvin / meter"
+  },
+  "density": {
+    "magnitude": 5068657.572131097,
+    "units": "gram / meter ** 3"
+  },
+  "temperature_melt": {
+    "magnitude": 1834.9295502938312,
+    "units": "kelvin"
+  },
+  "temperature_liquidus": {
+    "magnitude": 2050.3190158086086,
+    "units": "kelvin"
+  },
+  "temperature_solidus": {
+    "magnitude": 1619.540084779054,
+    "units": "kelvin"
+  }
+}

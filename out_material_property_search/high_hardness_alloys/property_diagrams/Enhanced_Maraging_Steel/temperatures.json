@@ -1,0 +1,15 @@
+{
+  "name": "Enhanced_Maraging_Steel",
+  "temperature_melt": {
+    "magnitude": 1709.3230667653993,
+    "units": "kelvin"
+  },
+  "temperature_liquidus": {
+    "magnitude": 1721.404973260153,
+    "units": "kelvin"
+  },
+  "temperature_solidus": {
+    "magnitude": 1697.2411602706459,
+    "units": "kelvin"
+  }
+}

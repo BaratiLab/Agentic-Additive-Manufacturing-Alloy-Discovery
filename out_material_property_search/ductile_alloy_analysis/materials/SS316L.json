@@ -1,0 +1,31 @@
+{
+  "name": "SS316L",
+  "specific_heat_capacity": {
+    "magnitude": 37.001112373631265,
+    "units": "joule / kelvin / kilogram"
+  },
+  "absorptivity": {
+    "magnitude": 0.1709967555611058,
+    "units": "dimensionless"
+  },
+  "thermal_conductivity": {
+    "magnitude": 45.6134118604313,
+    "units": "watt / kelvin / meter"
+  },
+  "density": {
+    "magnitude": 7821475.819289291,
+    "units": "gram / meter ** 3"
+  },
+  "temperature_melt": {
+    "magnitude": 1719.6277050502865,
+    "units": "kelvin"
+  },
+  "temperature_liquidus": {
+    "magnitude": 1727.8871875704372,
+    "units": "kelvin"
+  },
+  "temperature_solidus": {
+    "magnitude": 1711.3682225301359,
+    "units": "kelvin"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Fe99C1",
+  "temperature_melt": {
+    "magnitude": 1677.9615993574025,
+    "units": "kelvin"
+  },
+  "temperature_liquidus": {
+    "magnitude": 1735.1910822727966,
+    "units": "kelvin"
+  },
+  "temperature_solidus": {
+    "magnitude": 1620.7321164420084,
+    "units": "kelvin"
+  }
+}

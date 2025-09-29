@@ -1,0 +1,31 @@
+{
+  "name": "TI6AL4V",
+  "specific_heat_capacity": {
+    "magnitude": 25.45996822274301,
+    "units": "joule / kelvin / kilogram"
+  },
+  "absorptivity": {
+    "magnitude": 0.4230001042175844,
+    "units": "dimensionless"
+  },
+  "thermal_conductivity": {
+    "magnitude": 10.512183850691862,
+    "units": "watt / kelvin / meter"
+  },
+  "density": {
+    "magnitude": 4430587.9870026205,
+    "units": "gram / meter ** 3"
+  },
+  "temperature_melt": {
+    "magnitude": 1905.7307072878234,
+    "units": "kelvin"
+  },
+  "temperature_liquidus": {
+    "magnitude": 1928.0669468179358,
+    "units": "kelvin"
+  },
+  "temperature_solidus": {
+    "magnitude": 1883.394467757711,
+    "units": "kelvin"
+  }
+}

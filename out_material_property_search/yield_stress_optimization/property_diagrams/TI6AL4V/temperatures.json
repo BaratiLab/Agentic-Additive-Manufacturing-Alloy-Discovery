@@ -1,0 +1,15 @@
+{
+  "name": "TI6AL4V",
+  "temperature_melt": {
+    "magnitude": 1905.7307072878234,
+    "units": "kelvin"
+  },
+  "temperature_liquidus": {
+    "magnitude": 1928.0669468179358,
+    "units": "kelvin"
+  },
+  "temperature_solidus": {
+    "magnitude": 1883.394467757711,
+    "units": "kelvin"
+  }
+}

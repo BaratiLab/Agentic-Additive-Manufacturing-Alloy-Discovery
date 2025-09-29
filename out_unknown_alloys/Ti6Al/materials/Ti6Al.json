@@ -1,0 +1,31 @@
+{
+  "name": "Ti6Al",
+  "specific_heat_capacity": {
+    "magnitude": 27.9228257952265,
+    "units": "joule / kelvin / kilogram"
+  },
+  "absorptivity": {
+    "magnitude": 0.4887205436227352,
+    "units": "dimensionless"
+  },
+  "thermal_conductivity": {
+    "magnitude": 10.20896217230111,
+    "units": "watt / kelvin / meter"
+  },
+  "density": {
+    "magnitude": 4355050.59590591,
+    "units": "gram / meter ** 3"
+  },
+  "temperature_melt": {
+    "magnitude": 1963.3745197443918,
+    "units": "kelvin"
+  },
+  "temperature_liquidus": {
+    "magnitude": 1963.379638184678,
+    "units": "kelvin"
+  },
+  "temperature_solidus": {
+    "magnitude": 1963.3694013041058,
+    "units": "kelvin"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "CoCrCuFeNi_HEA",
+  "temperature_melt": {
+    "magnitude": 1516.636787414955,
+    "units": "kelvin"
+  },
+  "temperature_liquidus": {
+    "magnitude": 1648.8576248310706,
+    "units": "kelvin"
+  },
+  "temperature_solidus": {
+    "magnitude": 1384.4159499988398,
+    "units": "kelvin"
+  }
+}

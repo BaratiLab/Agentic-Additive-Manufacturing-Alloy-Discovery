@@ -1,0 +1,31 @@
+{
+  "name": "MAR_M_247",
+  "specific_heat_capacity": {
+    "magnitude": 31.691236716340452,
+    "units": "joule / kelvin / kilogram"
+  },
+  "absorptivity": {
+    "magnitude": 0.2301982001714244,
+    "units": "dimensionless"
+  },
+  "thermal_conductivity": {
+    "magnitude": 19.023556159814675,
+    "units": "watt / kelvin / meter"
+  },
+  "density": {
+    "magnitude": 8430714.46598162,
+    "units": "gram / meter ** 3"
+  },
+  "temperature_melt": {
+    "magnitude": 1669.9521228807102,
+    "units": "kelvin"
+  },
+  "temperature_liquidus": {
+    "magnitude": 1689.3946024560003,
+    "units": "kelvin"
+  },
+  "temperature_solidus": {
+    "magnitude": 1650.5096433054205,
+    "units": "kelvin"
+  }
+}

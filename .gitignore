@@ -212,3 +212,5 @@ out/
 out*/
 
 !out_known_alloys
+!out_material_property_search
+!out_unknown_alloys

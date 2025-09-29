@@ -1,0 +1,818 @@
+{
+  "parameters": [
+    "beam_power",
+    "scan_velocity"
+  ],
+  "points": [
+    {
+      "beam_power": {
+        "magnitude": 50,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 200,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 50,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 400,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 50,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 600,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 50,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 800,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 50,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1000,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 50,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1200,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 50,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1400,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 50,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1600,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 50,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1800,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 100,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 200,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 100,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 400,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 100,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 600,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 100,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 800,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 100,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1000,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 100,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1200,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 100,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1400,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 100,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1600,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 100,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1800,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 150,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 200,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 150,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 400,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 150,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 600,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 150,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 800,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 150,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1000,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 150,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1200,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 150,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1400,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 150,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1600,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 150,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1800,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 200,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 200,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 200,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 400,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 200,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 600,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 200,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 800,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 200,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1000,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 200,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1200,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 200,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1400,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 200,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1600,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 200,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1800,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 250,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 200,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 250,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 400,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 250,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 600,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 250,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 800,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 250,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1000,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 250,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1200,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 250,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1400,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 250,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1600,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 250,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1800,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 300,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 200,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 300,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 400,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 300,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 600,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 300,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 800,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 300,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1000,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 300,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1200,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 300,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1400,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 300,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1600,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 300,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1800,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 350,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 200,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 350,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 400,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 350,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 600,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 350,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 800,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 350,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1000,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 350,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1200,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 350,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1400,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 350,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1600,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 350,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1800,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 400,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 200,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 400,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 400,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 400,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 600,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 400,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 800,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 400,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1000,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 400,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1200,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 400,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1400,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 400,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1600,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 400,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1800,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 450,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 200,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 450,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 400,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 450,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 600,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 450,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 800,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 450,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1000,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 450,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1200,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 450,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1400,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 450,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1600,
+        "units": "millimeter / second"
+      }
+    },
+    {
+      "beam_power": {
+        "magnitude": 450,
+        "units": "watt"
+      },
+      "scan_velocity": {
+        "magnitude": 1800,
+        "units": "millimeter / second"
+      }
+    }
+  ]
+}

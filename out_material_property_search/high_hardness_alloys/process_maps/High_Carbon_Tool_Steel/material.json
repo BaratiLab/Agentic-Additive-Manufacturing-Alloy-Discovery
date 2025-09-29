@@ -1,0 +1,31 @@
+{
+  "name": "High_Carbon_Tool_Steel",
+  "specific_heat_capacity": {
+    "magnitude": 83.63399220250388,
+    "units": "joule / kelvin / kilogram"
+  },
+  "absorptivity": {
+    "magnitude": 0.4480139059733691,
+    "units": "dimensionless"
+  },
+  "thermal_conductivity": {
+    "magnitude": 36.60914646503304,
+    "units": "watt / kelvin / meter"
+  },
+  "density": {
+    "magnitude": 7164811.275580565,
+    "units": "gram / meter ** 3"
+  },
+  "temperature_melt": {
+    "magnitude": 1594.2821036389369,
+    "units": "kelvin"
+  },
+  "temperature_liquidus": {
+    "magnitude": 1663.795574714571,
+    "units": "kelvin"
+  },
+  "temperature_solidus": {
+    "magnitude": 1524.7686325633024,
+    "units": "kelvin"
+  }
+}

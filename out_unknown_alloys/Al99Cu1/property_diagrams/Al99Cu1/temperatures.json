@@ -1,0 +1,15 @@
+{
+  "name": "Al99Cu1",
+  "temperature_melt": {
+    "magnitude": 919.1302765463392,
+    "units": "kelvin"
+  },
+  "temperature_liquidus": {
+    "magnitude": 930.867927842885,
+    "units": "kelvin"
+  },
+  "temperature_solidus": {
+    "magnitude": 907.3926252497935,
+    "units": "kelvin"
+  }
+}

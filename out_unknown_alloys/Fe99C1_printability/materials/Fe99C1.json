@@ -1,0 +1,31 @@
+{
+  "name": "Fe99C1",
+  "specific_heat_capacity": {
+    "magnitude": 28.696569249215383,
+    "units": "joule / kelvin / kilogram"
+  },
+  "absorptivity": {
+    "magnitude": 0.17179415735927378,
+    "units": "dimensionless"
+  },
+  "thermal_conductivity": {
+    "magnitude": 63.54048846706597,
+    "units": "watt / kelvin / meter"
+  },
+  "density": {
+    "magnitude": 7625409.287168286,
+    "units": "gram / meter ** 3"
+  },
+  "temperature_melt": {
+    "magnitude": 1677.9615993574025,
+    "units": "kelvin"
+  },
+  "temperature_liquidus": {
+    "magnitude": 1735.1910822727966,
+    "units": "kelvin"
+  },
+  "temperature_solidus": {
+    "magnitude": 1620.7321164420084,
+    "units": "kelvin"
+  }
+}
